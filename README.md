@@ -97,14 +97,6 @@ My personal portfolio site, built to present projects, skills, and the kind of w
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joakimmanoj2k5&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## Quote I Like
 
 <div align="center">
