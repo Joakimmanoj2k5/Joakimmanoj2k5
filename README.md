@@ -29,8 +29,6 @@ interests:
   - Computer Vision & Gesture Recognition
   - Full Stack Web Development
   - Open Source Contribution
-currently_building: Mudra — ISL Gesture Recognition System
-fun_fact: I turn ☕ into <code/>
 ```
 
 ---
