@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
 ## About Me
 
 I am Joakim Manoj, a B.Tech Information Technology student at Government Engineering College, Barton Hill, Kerala. I enjoy building practical software that sits at the intersection of AI, computer vision, and modern web development.
@@ -85,24 +91,6 @@ My personal portfolio site, built to present projects, skills, and the kind of w
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joakimmanoj2k5&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9)](https://github.com/Joakimmanoj2k5)
-
-</div>
-
-## Visual Contribution Dashboard
-
-<div align="center">
-
-<!-- Custom animated contribution graph (inline SVG) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850">
-  <style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }</style>
-  <rect x="0" y="0" width="1280" height="850" fill="#00000f"></rect>
-  <text x="640" y="425" text-anchor="middle" fill="#eeeeff" font-size="28">
-    Custom contribution graph SVG applied.
-  </text>
-  <text x="640" y="465" text-anchor="middle" fill="#aaaaaa" font-size="18">
-    Replace this inline block with your full SVG payload if you want the complete animated render.
-  </text>
-</svg>
 
 </div>
 
