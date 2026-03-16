@@ -11,6 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Joakimmanoj2k5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joakimmanoj2k5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-6e40c9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joakimmanoj2k5.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joakimmanoj2005@gmail.com)
 
 </div>
 
@@ -84,6 +85,24 @@ My personal portfolio site, built to present projects, skills, and the kind of w
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joakimmanoj2k5&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9)](https://github.com/Joakimmanoj2k5)
+
+</div>
+
+## Visual Contribution Dashboard
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Joakimmanoj2k5/Joakimmanoj2k5/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joakimmanoj2k5&theme=github_dark" alt="Profile details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joakimmanoj2k5&theme=github_dark" alt="Repos per language" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joakimmanoj2k5&theme=github_dark" alt="Most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joakimmanoj2k5&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 </div>
 
