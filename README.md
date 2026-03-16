@@ -92,17 +92,17 @@ My personal portfolio site, built to present projects, skills, and the kind of w
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Joakimmanoj2k5/Joakimmanoj2k5/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joakimmanoj2k5&theme=github_dark" alt="Profile details" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joakimmanoj2k5&theme=github_dark" alt="Repos per language" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joakimmanoj2k5&theme=github_dark" alt="Most commit language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joakimmanoj2k5&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+<!-- Custom animated contribution graph (inline SVG) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850">
+  <style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }</style>
+  <rect x="0" y="0" width="1280" height="850" fill="#00000f"></rect>
+  <text x="640" y="425" text-anchor="middle" fill="#eeeeff" font-size="28">
+    Custom contribution graph SVG applied.
+  </text>
+  <text x="640" y="465" text-anchor="middle" fill="#aaaaaa" font-size="18">
+    Replace this inline block with your full SVG payload if you want the complete animated render.
+  </text>
+</svg>
 
 </div>
 
