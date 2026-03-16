@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Profile 3D Contribution](https://raw.githubusercontent.com/Joakimmanoj2k5/Joakimmanoj2k5/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 

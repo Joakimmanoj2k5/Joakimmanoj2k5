@@ -21,6 +21,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Remove footer stats/icons from SVG
+        run: |
+          for f in profile-3d-contrib/*.svg; do
+            perl -0777 -i -pe 's#<g><text style="font-size: 32px; font-weight: bold;".*?</g></svg>#</svg>#s' "$f"
+          done
+
       - name: Commit and push generated SVG files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
